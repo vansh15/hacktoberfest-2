@@ -455,6 +455,11 @@
 - Bio: Undergrad Student, full stack developer, open source enthusiast
 - GitHub: [AmoghPatel1](https://github.om/AmoghPatel1)
 
+#### Name: [Vansh Sardana](https://github.com/vansh15)
+- Place: india
+- Bio: Software Developer
+- GitHub: [Vansh15](https://github.com/vansh15)
+- 
 #### Name: [Amogh Patel](https://github.com/AmoghPatel1)
 
 - Place: Sri City, Chittoor, Andhra Pradesh, India
